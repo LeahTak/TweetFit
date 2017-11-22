@@ -1,0 +1,45 @@
+body{
+	width: 100%;
+	margin-left:75px;
+	margin-right: 75px
+	margin-top:50px;
+
+}
+
+.type{
+	left:50%;
+	position: static;
+}
+h1{
+	font-family: Menlo;
+	margin-bottom: 5px;
+
+}
+
+p{
+	width: 275px;
+	font-family:Menlo;
+	background-color: #82ffe0; 
+	margin-top: 5px;
+	font-size: 20px;
+}
+
+.timeline{
+	position: absolute;
+	border-style:dashed;
+	border-color: #000000;
+}
+
+.gif{
+	position: absolute;
+	width: 500px;
+	height: auto;
+	border:5px solid #82ffe0;
+	position: relative;
+	left: 45vw;
+	
+}
+
+/*#golden{
+	left:50vw;
+}*/
